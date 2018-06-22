@@ -18,5 +18,5 @@ function linkSelector(element) {
 
 function imageSelector(element) {
   $('img[alt="cat sleeping"]').attr("alt");
-  return ;
+  return $('img[alt="cat sleeping"]').attr("alt");
 }
