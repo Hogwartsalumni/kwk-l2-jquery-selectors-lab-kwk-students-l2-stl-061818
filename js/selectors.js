@@ -7,5 +7,6 @@ function h1Selector(element) {
 }
 
 function liInOlSelector(element) {
-  document.querySelectorAll('ol)
+  document.querySelectorAll('ol li');
+  return document.querySelectorAll('ol li')
 }
