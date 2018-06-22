@@ -12,5 +12,6 @@ function liInOlSelector(element) {
 }
 
 function linkSelector(element) {
-  document.querySelectorAll('')
+  document.querySelectorAll('div.box5 a');
+  return document.querySelectorAll('div.box5 a')
 }
