@@ -16,7 +16,7 @@ function linkSelector(element) {
   return document.querySelectorAll('div.box5 a');
 }
 
-//function imageSelector(element) {
+function imageSelector(element) {
   $('input:cat sleeping').attr("alt");
   return $('input:cat sleeping').attr("alt");
 }
