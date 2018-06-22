@@ -16,7 +16,11 @@ function linkSelector(element) {
   return document.querySelectorAll('div.box5 a');
 }
 
-function imageSelector(element) {
+//function imageSelector(element) {
   $('img[alt="cat sleeping"]').attr("alt");
   return $('img[alt="cat sleeping"]').attr("alt");
+}
+
+function checkboxInputSelector(element) {
+  
 }
