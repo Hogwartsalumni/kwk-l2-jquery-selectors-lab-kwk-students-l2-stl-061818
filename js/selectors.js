@@ -10,3 +10,7 @@ function liInOlSelector(element) {
   document.querySelectorAll('ol li');
   return document.querySelectorAll('ol li');
 }
+
+function linkSelector(element) {
+  
+}
