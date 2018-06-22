@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="5" errors="0" failures="4" time="0.014" timestamp="2018-06-22T18:13:07">
+		<testcase classname="Selectors" name="#h1Selector should select all h1&amp;apos;s" time="0.007">
+		</testcase>
+		<testcase classname="Selectors" name="#liInOlSelector should select all li elements nested in ol&amp;apos;s" time="0.002">
+			<failure type="" message="ReferenceError: Can&amp;apos;t find variable: liInOlSelector in file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js (line 14)">
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js:14:26
+attemptSync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1510:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1498:20
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:541:83
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:548:25
+onload@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/boot.js:172:16			</failure>
+		</testcase>
+		<testcase classname="Selectors" name="#linkSelector should select all links that are inside of the element with an id of box4 and a class of box5." time="0.001">
+			<failure type="" message="ReferenceError: Can&amp;apos;t find variable: linkSelector in file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js (line 21)">
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js:21:24
+attemptSync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1510:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1498:20
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:541:83
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:548:25
+onload@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/boot.js:172:16			</failure>
+		</testcase>
+		<testcase classname="Selectors" name="#imageSelector should an image that has the alt text equal to &amp;quot;cat sleeping&amp;quot;" time="0.001">
+			<failure type="" message="ReferenceError: Can&amp;apos;t find variable: imageSelector in file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js (line 26)">
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js:26:25
+attemptSync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1510:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1498:20
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:541:83
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:548:25
+onload@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/boot.js:172:16			</failure>
+		</testcase>
+		<testcase classname="Selectors" name="#checkboxInputSelector should select all checkbox inputs" time="0.001">
+			<failure type="" message="ReferenceError: Can&amp;apos;t find variable: checkboxInputSelector in file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js (line 32)">
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/spec/selectors_spec.js:32:33
+attemptSync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1510:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1498:20
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+next@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1517:40
+complete@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:333:19
+clearStack@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:506:11
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1505:22
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:306:28
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1708:44
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1694:21
+file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:541:83
+attemptAsync@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1520:16
+run@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1496:28
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:1485:13
+queueRunnerFactory@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:518:42
+execute@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/jasmine.js:548:25
+onload@file:///home/Hogwartsalumni/kwk-l2-jquery-selectors-lab-kwk-students-l2-stl-061818/tmpTestSupport/boot.js:172:16			</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
+
