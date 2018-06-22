@@ -13,5 +13,9 @@ function liInOlSelector(element) {
 
 function linkSelector(element) {
   document.querySelectorAll('div.box5 a');
-  return document.querySelectorAll('div.box5 a')
+  return document.querySelectorAll('div.box5 a');
+}
+
+function imageSelector(element) {
+  
 }
