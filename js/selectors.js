@@ -17,8 +17,8 @@ function linkSelector(element) {
 }
 
 //function imageSelector(element) {
-  $('img[alt="cat sleeping"]').attr("alt");
-  return $('img[alt="cat sleeping"]').attr("alt");
+  $('input:cat sleeping').attr("alt");
+  return $('input:cat sleeping').attr("alt");
 }
 
 function checkboxInputSelector(element) {
